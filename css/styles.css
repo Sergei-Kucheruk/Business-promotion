@@ -208,3 +208,82 @@ button {
   margin: 0 auto;
   display: block;
 }
+
+/*------Management------*/
+
+.management {
+  padding-bottom: 50px;
+}
+
+.management-container {
+  display: flex;
+  gap: 84px;
+}
+
+.management-text-wrap {
+  min-width: 486px;
+  height: 90px;
+}
+
+.management-title-part {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.management-title {
+  margin-bottom: 28px;
+  font-size: 32px;
+}
+
+.management-title-two {
+  margin-bottom: 12px;
+}
+
+.management-text-start {
+  margin-bottom: 27px;
+}
+
+.management-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+}
+
+.management-list {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+/*------Customer------*/
+
+.customer {
+  padding: 50px 0;
+}
+
+.customer-container {
+  display: flex;
+  gap: 84px;
+}
+
+.customer-title-part {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.customer-title {
+  font-size: 32px;
+  margin-bottom: 25px;
+}
+
+.customer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  margin-bottom: 30px;
+}
+
+.customer-list {
+}
